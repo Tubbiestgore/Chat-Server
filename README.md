@@ -15,7 +15,7 @@ The Architecture that I used in my Program was Clint/Server Architecture, so in 
 
 In the case of this program I am using the mostly widly used of the two, namley TCP, because the program itself relies on the integrity and timley delivery of data from the user to the server, so between TCP and UDP, TCP is more practical in this application. The port which I used was 6622 for both the server and the client.
 
-In the case of the Chat Room Program the Format utilized would be text-based with timestamp, a name, and then the raw text communicated to the server,a dn recommunicated to the other clients on the chat bot.
+In the case of the Chat Room Program the Format utilized would be text-based with timestamp, a name, and then the raw text communicated to the server, and recommunicated to the other clients on the chat bot.
 
 # Development Environment
 
