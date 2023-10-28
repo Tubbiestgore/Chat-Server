@@ -7,7 +7,7 @@ As stated above the program itself is a Chat Room, the vide below goes into more
 
 The purpose in writing this software was to explore the main conecpts behind networking within the scope of programming, and to further devlop my skills as a software developer and engineer.
 
-[Software Demo Video](https://youtu.be/H4tPrKJFBEw)
+* [Software Demo Video](https://youtu.be/H4tPrKJFBEw)
 
 # Network Communication
 
