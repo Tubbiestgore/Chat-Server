@@ -62,5 +62,5 @@ while True: # Loop to accept incoming client connections
     # Creates a new thread to hanlde communication with client 
     thread = Thread(target=listen_for_client, args=(client_socket, client_address))
     thread.daemon = True
-    thread.start()
+    thread.start() # Start the Thread
 

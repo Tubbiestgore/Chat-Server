@@ -26,7 +26,7 @@ def listen_for_messages():
 # Creates a thread to run the function
 thread = Thread(target=listen_for_messages)
 thread.daemon = True
-thread.start()
+thread.start() # Start the Thread
 
 # Choose a color for your messages
 available_colors = [Fore.BLUE, Fore.CYAN, Fore.GREEN, Fore.MAGENTA, Fore.RED, Fore.YELLOW]
