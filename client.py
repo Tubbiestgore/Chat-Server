@@ -31,6 +31,7 @@ thread.start()
 # Choose a color for your messages
 available_colors = [Fore.BLUE, Fore.CYAN, Fore.GREEN, Fore.MAGENTA, Fore.RED, Fore.YELLOW]
 client_color = available_colors[int(input("Choose a color (0-5): "))]
+print("To exit Chat Room, enter 'q'")
 
 # Function to leave the Chat Room
 def leave_chat():
